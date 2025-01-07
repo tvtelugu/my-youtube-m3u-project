@@ -1,0 +1,16 @@
+{
+  "youtubeUrls": [
+    {
+      "url": "https://www.youtube.com/watch?v=Rc6xBsiI6y8",
+      "group": "News"
+    },
+    {
+      "url": "https://www.youtube.com/@MagicboxTeluguStories/live",
+      "group": "Kids"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=xyz12345678",
+      "group": "Sports"
+    }
+  ]
+}
